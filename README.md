@@ -4,9 +4,7 @@
 
 **效果预览 !**
 
-
-
-![Snipaste_2022-07-22_20-59-41](D:\python_project\qt_design\qt_translate\assets\Snipaste_2022-07-22_20-59-41.png)
+![Snipaste_2022-07-22_20-59-41.png](https://s2.loli.net/2022/07/23/3lSRjPtKsId6ZJf.png)
 
 
 
